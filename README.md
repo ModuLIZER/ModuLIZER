@@ -1,16 +1,15 @@
-### Hi there 👋
+# ModuLIZER GitHub Lair
 
-<!--
-**ModuLIZER/ModuLIZER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I Work With
+![HTML](https://img.shields.io/badge/-HTML5-21262d?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-21262d?&logo=CSS3)
+![Sass](https://img.shields.io/badge/-sass-21262d?&logo=sass)
+![JavaScript](https://img.shields.io/badge/-javaScript-21262d?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-typeScript-21262d?&logo=TypeScript)
+![React](https://img.shields.io/badge/-react-21262d?&logo=React)
+![Express](https://img.shields.io/badge/-express-21262d?&logo=express)
+![MongoDB](https://img.shields.io/badge/-mongodb-21262d?&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-firebase-21262d?&logo=firebase)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModuLIZER)
