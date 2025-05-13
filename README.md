@@ -7,6 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-javaScript-21262d?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-typeScript-21262d?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-react-21262d?&logo=React)
+![Next](https://img.shields.io/badge/-next-21262d?&logo=nextdotjs)
 ![Express](https://img.shields.io/badge/-express-21262d?&logo=express)
 ![MongoDB](https://img.shields.io/badge/-mongodb-21262d?&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-firebase-21262d?&logo=firebase)
