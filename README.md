@@ -10,6 +10,7 @@
 ![Express](https://img.shields.io/badge/-express-21262d?&logo=express)
 ![MongoDB](https://img.shields.io/badge/-mongodb-21262d?&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-firebase-21262d?&logo=firebase)
+![Strapi](https://img.shields.io/badge/-strapi-21262d?&logo=strapi)
 
 ## Top GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModuLIZER)
